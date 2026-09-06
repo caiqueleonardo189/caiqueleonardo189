@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, eu sou o Caique! 👋
 
-<!--
-**caiqueleonardo189/caiqueleonardo189** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Ciência da Computação e Desenvolvedor Back-End focado no ecossistema Java, C e Banco de Dados.
 
-Here are some ideas to get you started:
+- 🌱 **Atualmente aprendendo:** Java POO avançado (dominando herança, polimorfismo, encapsulamento e abstração).
+- 🚀 **Projetos atuais:** Desenvolvendo um sistema de batalha em modo console em Java (aprimorando o código conforme evoluo nos estudos) e, em breve, um sistema completo para uma consultoria de investimentos.
+- 📫 **Como me encontrar:** Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/caique-leonardo-da-silva-campos-565152253).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Habilidades Técnicas
+
+* ☕ **Java**: Domínio da base de Programação Orientada a Objetos (POO), encapsulamento, herança e polimorfismo.
+* 🛢️ **SQL**: Criação e manipulação de bancos de dados com operações CRUD (`INSERT`, `SELECT`, `UPDATE`, `DELETE`).
+* 🖥️ **Linguagem C**: Estrutura de dados, lógica de programação estruturada e gerenciamento de memória.
